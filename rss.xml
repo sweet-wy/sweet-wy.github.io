@@ -16,6 +16,7 @@
             <guid isPermalink="true">http://example.com/2022/07/08/%E8%8B%8F%E5%B7%9E%E7%9D%BF%E6%98%95/</guid>
             <title>苏州睿昕</title>
             <link>http://example.com/2022/07/08/%E8%8B%8F%E5%B7%9E%E7%9D%BF%E6%98%95/</link>
+            <category term="一级市场" scheme="http://example.com/categories/%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA/" />
             <category term="Teaser" scheme="http://example.com/tags/Teaser/" />
             <pubDate>Fri, 08 Jul 2022 16:00:59 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;苏州睿昕teaser&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#苏州睿昕teaser&#34;&gt;#&lt;/a&gt; 苏州睿昕 Teaser&lt;/h1&gt;
@@ -53,6 +54,7 @@
             <guid isPermalink="true">http://example.com/2022/07/08/%E5%92%8C%E9%98%B3%E6%99%BA%E8%83%BD/</guid>
             <title>和阳智能</title>
             <link>http://example.com/2022/07/08/%E5%92%8C%E9%98%B3%E6%99%BA%E8%83%BD/</link>
+            <category term="一级市场" scheme="http://example.com/categories/%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA/" />
             <category term="Teaser" scheme="http://example.com/tags/Teaser/" />
             <pubDate>Fri, 08 Jul 2022 15:57:50 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;和阳智能teaser&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#和阳智能teaser&#34;&gt;#&lt;/a&gt; 《和阳智能》Teaser&lt;/h1&gt;
@@ -91,6 +93,7 @@
             <guid isPermalink="true">http://example.com/2022/07/08/%E7%9F%A5%E8%A1%8C%E7%A7%91%E6%8A%80/</guid>
             <title>知行科技</title>
             <link>http://example.com/2022/07/08/%E7%9F%A5%E8%A1%8C%E7%A7%91%E6%8A%80/</link>
+            <category term="一级市场" scheme="http://example.com/categories/%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA/" />
             <category term="Teaser" scheme="http://example.com/tags/Teaser/" />
             <pubDate>Fri, 08 Jul 2022 15:54:33 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;知行科技teaser&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#知行科技teaser&#34;&gt;#&lt;/a&gt; 《知行科技》Teaser&lt;/h1&gt;
@@ -148,6 +151,7 @@
             <guid isPermalink="true">http://example.com/2022/07/08/%E6%96%B0%E6%BA%90%E5%8A%A8%E5%8A%9B/</guid>
             <title>新源动力</title>
             <link>http://example.com/2022/07/08/%E6%96%B0%E6%BA%90%E5%8A%A8%E5%8A%9B/</link>
+            <category term="一级市场" scheme="http://example.com/categories/%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA/" />
             <category term="Teaser" scheme="http://example.com/tags/Teaser/" />
             <pubDate>Fri, 08 Jul 2022 15:51:12 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;新源动力teaser&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新源动力teaser&#34;&gt;#&lt;/a&gt; 《新源动力》Teaser&lt;/h1&gt;
