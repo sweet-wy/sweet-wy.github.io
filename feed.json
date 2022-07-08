@@ -81,8 +81,8 @@
             ]
         },
         {
-            "id": "http://example.com/2022/07/05/%E6%B5%8B%E8%AF%95/",
-            "url": "http://example.com/2022/07/05/%E6%B5%8B%E8%AF%95/",
+            "id": "http://example.com/2022/07/05/computer-science/java/course-1/%E6%B5%8B%E8%AF%95/",
+            "url": "http://example.com/2022/07/05/computer-science/java/course-1/%E6%B5%8B%E8%AF%95/",
             "title": "测试",
             "date_published": "2022-07-05T06:57:34.780Z",
             "content_html": "<p>测试测 i 是</p>\n",

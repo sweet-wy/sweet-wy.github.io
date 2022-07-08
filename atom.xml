@@ -249,9 +249,9 @@
         <updated>2022-07-05T10:01:56.470Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2022/07/05/%E6%B5%8B%E8%AF%95/</id>
+        <id>http://example.com/2022/07/05/computer-science/java/course-1/%E6%B5%8B%E8%AF%95/</id>
         <title>测试</title>
-        <link rel="alternate" href="http://example.com/2022/07/05/%E6%B5%8B%E8%AF%95/"/>
+        <link rel="alternate" href="http://example.com/2022/07/05/computer-science/java/course-1/%E6%B5%8B%E8%AF%95/"/>
         <content type="html">&lt;p&gt;测试测 i 是&lt;/p&gt;
 </content>
         <updated>2022-07-05T06:57:34.780Z</updated>
