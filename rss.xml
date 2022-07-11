@@ -238,9 +238,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2022/07/05/%E8%A1%8C%E7%A0%94/</guid>
+            <guid isPermalink="true">http://example.com/2022/07/05/computer-science/study/course-1/%E8%A1%8C%E7%A0%94/</guid>
             <title>氢能源 北交所 估值</title>
-            <link>http://example.com/2022/07/05/%E8%A1%8C%E7%A0%94/</link>
+            <link>http://example.com/2022/07/05/computer-science/study/course-1/%E8%A1%8C%E7%A0%94/</link>
+            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
+            <category term="Java" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/" />
+            <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/course-1/" />
             <category term="行研" scheme="http://example.com/tags/%E8%A1%8C%E7%A0%94/" />
             <pubDate>Tue, 05 Jul 2022 18:01:56 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;清晰梳理公司基本面：公司层面，行业层面；要有一个丰满的画像&lt;br /&gt;
@@ -252,9 +255,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2022/07/05/computer-science/java/course-1/%E6%B5%8B%E8%AF%95/</guid>
+            <guid isPermalink="true">http://example.com/2022/07/05/computer-science/study/course-1/%E6%B5%8B%E8%AF%95/</guid>
             <title>测试</title>
-            <link>http://example.com/2022/07/05/computer-science/java/course-1/%E6%B5%8B%E8%AF%95/</link>
+            <link>http://example.com/2022/07/05/computer-science/study/course-1/%E6%B5%8B%E8%AF%95/</link>
             <pubDate>Tue, 05 Jul 2022 14:57:34 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;测试测 i 是&lt;/p&gt;
  ]]></description>
@@ -277,9 +280,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2022/07/04/%E9%94%82%E7%94%B5%E6%B1%A0%20%E6%A1%88%E4%BE%8B/</guid>
+            <guid isPermalink="true">http://example.com/2022/07/04/computer-science/study/course-1/%E9%94%82%E7%94%B5%E6%B1%A0%20%E6%A1%88%E4%BE%8B/</guid>
             <title>锂电池 案例</title>
-            <link>http://example.com/2022/07/04/%E9%94%82%E7%94%B5%E6%B1%A0%20%E6%A1%88%E4%BE%8B/</link>
+            <link>http://example.com/2022/07/04/computer-science/study/course-1/%E9%94%82%E7%94%B5%E6%B1%A0%20%E6%A1%88%E4%BE%8B/</link>
+            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
+            <category term="Java" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/" />
+            <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/course-1/" />
             <pubDate>Mon, 04 Jul 2022 18:06:36 +0800</pubDate>
             <description><![CDATA[ &lt;ol&gt;
 &lt;li&gt;（1）锂电池龙头厂商，如宁德时代、比亚迪、亿纬锂能、南都能源等。电池厂商通过前向一体化可以有效降低成本，提高利润率；&lt;/li&gt;
@@ -417,9 +423,12 @@ Foundry 即我们常说的 “代工厂”，它是一种只负责芯片制造�
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2022/07/04/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%86%E6%9E%90%E8%B5%84%E6%96%99/</guid>
+            <guid isPermalink="true">http://example.com/2022/07/04/computer-science/study/course-1/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%86%E6%9E%90%E8%B5%84%E6%96%99/</guid>
             <title>上市公司分析资料</title>
-            <link>http://example.com/2022/07/04/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%86%E6%9E%90%E8%B5%84%E6%96%99/</link>
+            <link>http://example.com/2022/07/04/computer-science/study/course-1/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%86%E6%9E%90%E8%B5%84%E6%96%99/</link>
+            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
+            <category term="Java" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/" />
+            <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/course-1/" />
             <category term="上市公司研究" scheme="http://example.com/tags/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%A0%94%E7%A9%B6/" />
             <pubDate>Mon, 04 Jul 2022 18:06:36 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;##2022/5/11&lt;/p&gt;
@@ -456,9 +465,12 @@ Foundry 即我们常说的 “代工厂”，它是一种只负责芯片制造�
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2022/07/04/4.27%E8%A1%8C%E7%A0%94/</guid>
+            <guid isPermalink="true">http://example.com/2022/07/04/computer-science/study/course-1/4.27%E8%A1%8C%E7%A0%94/</guid>
             <title>氢能源 北交所 估值</title>
-            <link>http://example.com/2022/07/04/4.27%E8%A1%8C%E7%A0%94/</link>
+            <link>http://example.com/2022/07/04/computer-science/study/course-1/4.27%E8%A1%8C%E7%A0%94/</link>
+            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
+            <category term="Java" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/" />
+            <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/course-1/" />
             <category term="行研" scheme="http://example.com/tags/%E8%A1%8C%E7%A0%94/" />
             <pubDate>Mon, 04 Jul 2022 18:06:36 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;北交所成绩&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#北交所成绩&#34;&gt;#&lt;/a&gt; 北交所成绩&lt;/h2&gt;
