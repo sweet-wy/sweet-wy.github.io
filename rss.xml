@@ -291,9 +291,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2022/07/04/love/%E8%BE%A3%E5%82%BB/</guid>
+            <guid isPermalink="true">http://example.com/2022/07/04/love/photo/lovenote/%E8%BE%A3%E5%82%BB/</guid>
             <title>辣傻了的羽姐</title>
-            <link>http://example.com/2022/07/04/love/%E8%BE%A3%E5%82%BB/</link>
+            <link>http://example.com/2022/07/04/love/photo/lovenote/%E8%BE%A3%E5%82%BB/</link>
+            <category term="love" scheme="http://example.com/categories/love/" />
+            <category term="photo" scheme="http://example.com/categories/love/photo/" />
+            <category term="lovenote" scheme="http://example.com/categories/love/photo/lovenote/" />
             <pubDate>Mon, 04 Jul 2022 18:06:36 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/Lk5spt&#34;&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2022/04/10/Lk5spt.md.jpg&#34; alt=&#34;Lk5spt.md.jpg&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
  ]]></description>
@@ -406,9 +409,12 @@ Foundry 即我们常说的 “代工厂”，它是一种只负责芯片制造�
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2022/07/04/love/%E4%BF%9D%E4%BD%91%E7%AF%87/</guid>
+            <guid isPermalink="true">http://example.com/2022/07/04/love/photo/lovenote/%E4%BF%9D%E4%BD%91%E7%AF%87/</guid>
             <title>保佑篇</title>
-            <link>http://example.com/2022/07/04/love/%E4%BF%9D%E4%BD%91%E7%AF%87/</link>
+            <link>http://example.com/2022/07/04/love/photo/lovenote/%E4%BF%9D%E4%BD%91%E7%AF%87/</link>
+            <category term="love" scheme="http://example.com/categories/love/" />
+            <category term="photo" scheme="http://example.com/categories/love/photo/" />
+            <category term="lovenote" scheme="http://example.com/categories/love/photo/lovenote/" />
             <pubDate>Mon, 04 Jul 2022 18:06:36 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;strong&gt;&lt;sup&gt;(*￣(OO)￣)&lt;/sup&gt; 祝羽姐苏卫报考一帆风顺，大吉大利！！&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/LSxneS&#34;&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2022/04/07/LSxneS.md.png&#34; alt=&#34;LSxneS.md.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
