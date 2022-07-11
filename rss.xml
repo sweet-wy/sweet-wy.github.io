@@ -241,9 +241,9 @@
             <guid isPermalink="true">http://example.com/2022/07/05/computer-science/study/course-1/%E8%A1%8C%E7%A0%94/</guid>
             <title>氢能源 北交所 估值</title>
             <link>http://example.com/2022/07/05/computer-science/study/course-1/%E8%A1%8C%E7%A0%94/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-            <category term="study" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/" />
-            <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/course-1/" />
+            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
+            <category term="study" scheme="http://example.com/categories/computer-science/study/" />
+            <category term="行研" scheme="http://example.com/categories/computer-science/study/course-1/" />
             <category term="行研" scheme="http://example.com/tags/%E8%A1%8C%E7%A0%94/" />
             <pubDate>Tue, 05 Jul 2022 18:01:56 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;清晰梳理公司基本面：公司层面，行业层面；要有一个丰满的画像&lt;br /&gt;
@@ -275,9 +275,9 @@
             <guid isPermalink="true">http://example.com/2022/07/04/computer-science/study/course-1/%E9%94%82%E7%94%B5%E6%B1%A0%20%E6%A1%88%E4%BE%8B/</guid>
             <title>锂电池 案例</title>
             <link>http://example.com/2022/07/04/computer-science/study/course-1/%E9%94%82%E7%94%B5%E6%B1%A0%20%E6%A1%88%E4%BE%8B/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-            <category term="study" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/" />
-            <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/course-1/" />
+            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
+            <category term="study" scheme="http://example.com/categories/computer-science/study/" />
+            <category term="行研" scheme="http://example.com/categories/computer-science/study/course-1/" />
             <pubDate>Mon, 04 Jul 2022 18:06:36 +0800</pubDate>
             <description><![CDATA[ &lt;ol&gt;
 &lt;li&gt;（1）锂电池龙头厂商，如宁德时代、比亚迪、亿纬锂能、南都能源等。电池厂商通过前向一体化可以有效降低成本，提高利润率；&lt;/li&gt;
@@ -418,9 +418,9 @@ Foundry 即我们常说的 “代工厂”，它是一种只负责芯片制造�
             <guid isPermalink="true">http://example.com/2022/07/04/computer-science/study/course-1/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%86%E6%9E%90%E8%B5%84%E6%96%99/</guid>
             <title>上市公司分析资料</title>
             <link>http://example.com/2022/07/04/computer-science/study/course-1/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%86%E6%9E%90%E8%B5%84%E6%96%99/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-            <category term="study" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/" />
-            <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/course-1/" />
+            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
+            <category term="study" scheme="http://example.com/categories/computer-science/study/" />
+            <category term="行研" scheme="http://example.com/categories/computer-science/study/course-1/" />
             <category term="上市公司研究" scheme="http://example.com/tags/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%A0%94%E7%A9%B6/" />
             <pubDate>Mon, 04 Jul 2022 18:06:36 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;##2022/5/11&lt;/p&gt;
@@ -460,9 +460,9 @@ Foundry 即我们常说的 “代工厂”，它是一种只负责芯片制造�
             <guid isPermalink="true">http://example.com/2022/07/04/computer-science/study/course-1/4.27%E8%A1%8C%E7%A0%94/</guid>
             <title>氢能源 北交所 估值</title>
             <link>http://example.com/2022/07/04/computer-science/study/course-1/4.27%E8%A1%8C%E7%A0%94/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-            <category term="study" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/" />
-            <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/course-1/" />
+            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
+            <category term="study" scheme="http://example.com/categories/computer-science/study/" />
+            <category term="行研" scheme="http://example.com/categories/computer-science/study/course-1/" />
             <category term="行研" scheme="http://example.com/tags/%E8%A1%8C%E7%A0%94/" />
             <pubDate>Mon, 04 Jul 2022 18:06:36 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;北交所成绩&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#北交所成绩&#34;&gt;#&lt;/a&gt; 北交所成绩&lt;/h2&gt;
@@ -528,9 +528,9 @@ Foundry 即我们常说的 “代工厂”，它是一种只负责芯片制造�
             <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/special/</guid>
             <title>Step.4 主题特殊功能</title>
             <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/special/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-            <category term="二进制杂谈" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/note/" />
-            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/note/Theme-Shoka-Documentation/" />
+            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
+            <category term="二进制杂谈" scheme="http://example.com/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/note/Theme-Shoka-Documentation/" />
             <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
             <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
