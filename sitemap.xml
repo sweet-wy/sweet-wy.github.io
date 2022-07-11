@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/07/04/primary-market/study/course-1/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%86%E6%9E%90%E8%B5%84%E6%96%99/</loc>
+    <loc>http://example.com/2022/07/05/primary-market/study/course-1/%E8%A1%8C%E7%A0%94/</loc>
     
     <lastmod>2022-07-11</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/07/05/primary-market/study/course-1/%E8%A1%8C%E7%A0%94/</loc>
+    <loc>http://example.com/2022/07/04/primary-market/study/course-1/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%88%86%E6%9E%90%E8%B5%84%E6%96%99/</loc>
     
     <lastmod>2022-07-11</lastmod>
     
@@ -310,13 +310,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/primary-market/Java/</loc>
-    <lastmod>2022-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/categories/primary-market/study/course-1/</loc>
     <lastmod>2022-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -324,7 +317,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/</loc>
+    <loc>http://example.com/categories/primary-market/Java/</loc>
     <lastmod>2022-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -332,6 +325,13 @@
   
   <url>
     <loc>http://example.com/categories/primary-market/Java/course-1/</loc>
+    <lastmod>2022-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/</loc>
     <lastmod>2022-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
