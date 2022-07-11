@@ -246,8 +246,8 @@
 要简洁：饱满而不臃肿&lt;/p&gt;
 </content>
         <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Java" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/" />
-        <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/course-1/" />
+        <category term="study" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/" />
+        <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/course-1/" />
         <category term="行研" scheme="http://example.com/tags/%E8%A1%8C%E7%A0%94/" />
         <updated>2022-07-05T10:01:56.470Z</updated>
     </entry>
@@ -291,8 +291,8 @@
 &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/OGrfp9&#34;&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2022/05/09/OGrfp9.md.png&#34; alt=&#34;OGrfp9.md.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
         <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Java" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/" />
-        <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/course-1/" />
+        <category term="study" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/" />
+        <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/course-1/" />
         <updated>2022-07-04T10:06:36.911Z</updated>
     </entry>
     <entry>
@@ -456,8 +456,8 @@ Foundry 即我们常说的 “代工厂”，它是一种只负责芯片制造�
 &lt;/ol&gt;
 </content>
         <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Java" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/" />
-        <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/course-1/" />
+        <category term="study" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/" />
+        <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/course-1/" />
         <category term="上市公司研究" scheme="http://example.com/tags/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%A0%94%E7%A9%B6/" />
         <updated>2022-07-04T10:06:36.888Z</updated>
     </entry>
@@ -493,8 +493,8 @@ Foundry 即我们常说的 “代工厂”，它是一种只负责芯片制造�
 &lt;p&gt;&lt;a href=&#34;https://imgtu.com/i/LXeYBF&#34;&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2022/04/28/LXeYBF.md.jpg&#34; alt=&#34;LXeYBF.md.jpg&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
         <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Java" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/" />
-        <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/course-1/" />
+        <category term="study" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/" />
+        <category term="行研" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/study/course-1/" />
         <category term="行研" scheme="http://example.com/tags/%E8%A1%8C%E7%A0%94/" />
         <updated>2022-07-04T10:06:36.885Z</updated>
     </entry>
